@@ -4,5 +4,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  run-echo:
     uses: shubhamchav/Reuseable_Workflow_Main/.github/workflows/java-ci.yml@master
+
