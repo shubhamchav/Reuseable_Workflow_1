@@ -5,4 +5,4 @@ on:
 
 jobs:
   build:
-    uses: shubhamchav/Reuseable_Workflow_Main/.github/workflows/java-ci.yml@main
+    uses: shubhamchav/Reuseable_Workflow_Main/.github/workflows/java-ci.yml@master
