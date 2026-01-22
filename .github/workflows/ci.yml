@@ -1,0 +1,9 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    uses: shubhamchav/Reuseable_Workflow_Main/.github/workflows/java-ci.yml@main
